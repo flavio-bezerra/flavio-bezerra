@@ -1,10 +1,10 @@
  # Flávio Menegueço Bezerra
 
- > Ciência de Dados  Transformando Dados em Estratégias de Negócio  Cacau Show
+ > **Ciência de Dados** - Transformando Dados em Estratégias de Negócio - Cacau Show
 
  São Paulo, São Paulo, Brasil
 
- ## Resumo
+ ## 🔎 Resumo
  Com formação em Engenharia Civil pela UNESP e atuação como Ciência de Dados, dedico-me a transformar dados complexos em insights acionáveis que impulsionam o crescimento e a inovação.
 
  Minha paixão por desafios me levou a desenvolver modelos preditivos avançados e soluções de Machine Learning, Big Data e Inteligência Artificial (AI), sempre com o objetivo de gerar valor palpável para a organização.
@@ -13,31 +13,62 @@
 
  Keywords: Data Science, Machine Learning, Big Data, Python, SQL, Data Analysis, Data Visualization, Artificial Intelligence (AI), Deep Learning, Statistical Analysis, Predictive Modeling, Data Mining, Business Intelligence (BI), ETL (Extract, Transform, Load), Pyspark, TensorFlow, Natural Language Processing (NLP), Data Engineering.
 
- ## Principais Competências
- - Melhoria de processos
- - Melhoria contínua
- - API da OpenAI
+ ## Principais Competências:
+### 🔧 Tecnologias e Ferramentas
+- Python, PySpark, MLflow, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch, LangChain, - - API da OpenAI, IA generativa
+- SQL, MySQL, JSON, Expressões regulares
+- Microsoft Fabric, Microsoft Power BI, Windows Azure, Azure Databricks
+- Qlik Sense, Microsoft Excel, Microsoft Project
+- Git, HTML, CSS, JavaScript, React.js, Django
+- SAP
 
- ## Idiomas
+### 📊 Ciência de Dados e Análise
+- Ciência de dados, Inteligência de dados, Inteligência geoespacial
+- Análise exploratória de dados, Análise de dados, Insights de negócios
+- Estatística, Modelagem, Modelagem e simulação
+- Algoritmos de aprendizado de máquina, Aprendizado de máquina, Aprendizado supervisionado
+- Processamento de dados, Manipulação de dados, Visualização, Normas de dados
+
+### 📈 Estratégia, Negócios e Gestão
+- Estratégia empresarial, Planejamento estratégico
+- Eficiência operacional, Melhoria contínua, Melhoria de processos
+- Monitoramento e avaliação, Gestão de riscos
+- Reestruturas de negócios, Fusões e aquisições, Negociações estratégicas
+- Tomada de decisões de negócios, Análise de negócios, Identificação de oportunidade
+
+### 🧠 Habilidades Interpessoais e Cognitivas
+- Pensamento crítico, Comunicação, Trabalho em equipe
+- Resolução de problemas, Solução de problemas técnicos, Habilidades analíticas
+- Computação, Apresentações, Criação de template
+
+### ⚙️ Desenvolvimento e Operações
+- Desenvolvimento de front-end
+- Metodologias Agile
+- Banco de dados
+- Pesquisa de operações
+- Níveis de serviço, Métricas de qualidade
+- Soluções de tecnologia
+
+ ## 🗣️ Idiomas
  - 🇪🇸 Espanhol (Limited Working)
  - 🇺🇸 English (Full Professional)
  - 🇧🇷 Português (Native or Bilingual)
 
- ## Certificações
+ ## 📋 Certificações
  - Saint-Gobain Digital & IT Awards 2023
  - Capacitação SAP-SD KEY USER SPECIALIST
  - Fundamentos Da Gestão De Custos
  - Conceitos Básicos de Logística e Supply Chain
  - Capacitação SAP PROFESSIONAL 4.0
 
- ## Prêmios e Reconhecimentos
+ ## 🏆 Prêmios e Reconhecimentos
  - Prêmio de Excelência Acadêmica de 2017
  - Prêmio de Excelência Acadêmica de 2018
  - Finalista - Digital & IT Awards da Saint-Gobain de 2023
  - Vencedor - Digital & IT Awards da Saint-Gobain de 2024
  - Melhor Projeto de Data Science - 19° Congresso de Excelência Operacional
 
- ## Experiência Profissional
+ ## 🧑‍💼 Experiência Profissional
 
  ### Cacau Show
  Cientista de Dados Senior  março de 2025 - Presente (5 meses)
@@ -49,7 +80,7 @@
  - Colaboração em Projetos: Colaboração com cientistas de dados, engenheiros de dados, desenvolvedores e stakeholders na definição e execução de projetos de ciência de dados
  - Pesquisa e Inovação: Pesquisa e avaliação contínua de novas tecnologias, metodologias e tendências na área de ciência de dados para manter a empresa na vanguarda da inovação
 
- ### Quartzolit
+ ### Saint Gobain PPC Brasil
  Especialista em Ciência de Dados  dezembro de 2023 - março de 2025 (1 ano 4 meses)
  Jandira
 
@@ -59,7 +90,7 @@
  - Colaboração em Projetos: Colaboração com cientistas de dados, engenheiros de dados, desenvolvedores e stakeholders na definição e execução de projetos de ciência de dados
  - Pesquisa e Inovação: Pesquisa e avaliação contínua de novas tecnologias, metodologias e tendências na área de ciência de dados para manter a empresa na vanguarda da inovação
 
- ### Saint-Gobain
+ ### Saint-Gobain Latam
  Analista de Data Science Pleno Latam  outubro de 2022 - dezembro de 2023 (1 ano 3 meses)
  Barra Funda, São Paulo, São Paulo, Brasil
 
@@ -70,7 +101,7 @@
  - Análises Estatísticas e Preditivas: Conduzir análises estatísticas e preditivas para determinar o modelo matemático mais adequado, construindo algoritmos de recomendações, predições ou agrupamentos
  - Apresentação de Resultados: Executar apresentações para explorar e expor resultados de maneira simplificada, obtendo feedback dos stakeholders e coletando mais insights para aprimorar os algoritmos
 
- ### Quartzolit
+ ### Saint Gobain PPC Brasil
  Analista de Planejamento de Demanda Jr.  janeiro de 2022 - setembro de 2022 (9 meses)
  Jandira, São Paulo, Brasil
 
@@ -78,7 +109,7 @@
  - Análise de Demanda de Curto Prazo: Avaliação da demanda de curto prazo, identificando riscos e potencialidades de falta de produtos para a cadeia de suprimentos
  - Acompanhamento e Reajuste de Planos: Monitoramento da aderência e ajuste do plano de demanda de curto prazo, analisando e reportando possíveis causas de variações de tendência e sazonalidade, tanto internas quanto externas ao processo produtivo
 
- ### Saint-Gobain
+ ### Saint Gobain PPC Brasil
  Estagiário em Supply Chain Analytics  maio de 2021 - dezembro de 2021 (8 meses)
  Jandira, São Paulo, Brasil
 
@@ -87,11 +118,11 @@
  - Identificação de Riscos: Auxiliar na identificação de riscos, contribuindo para a mitigação de possíveis problemas na cadeia de suprimentos
  - Gerenciamento de Leads e Oportunidades: Gerenciar leads e oportunidades, apoiando a equipe na identificação e desenvolvimento de novas possibilidades de negócio
 
- ## Formação Acadêmica
+ ## 🎓 Formação Acadêmica
 
  ### Universidade Presbiteriana Mackenzie
  Pós-graduação Lato Sensu - MBA Executivo, Gestão Estratégica Empresarial
- fevereiro de 2025 - julho de 2026
+  fevereiro de 2025 - julho de 2026
 
  ### Universidade Estadual Paulista Júlio de Mesquita Filho
  Bacharelado em Engenharia, Engenharia Civil
