@@ -1,6 +1,6 @@
  # Flávio Menegueço Bezerra
 
- > **Ciência de Dados** - Transformando Dados em Estratégias de Negócio - Cacau Show
+ > **Ciência de Dados** - Transformando Dados em Estratégias de Negócio
 
  São Paulo, São Paulo, Brasil
 
