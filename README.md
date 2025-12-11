@@ -1,50 +1,93 @@
- # Flávio Menegueço Bezerra
+<div align="center">
+  <img src="banner.png" alt="Banner" width="100%" style="border-radius: 10px;" />
+  
+  <br />
+  <br />
 
- > **Ciência de Dados** - Transformando Dados em Estratégias de Negócio
+  <h1 style="font-family: 'Arial', sans-serif; font-weight: bold; font-size: 40px;">Flávio Menegueço Bezerra</h1>
+  
+  <h3 style="color: #666;">🧬 Data Scientist | Business Strategist</h3>
+  
+  <p>
+    São Paulo, São Paulo, Brasil 🇧🇷<br>
+    <em>Transformando Dados em Estratégias de Negócio</em>
+  </p>
+</div>
 
- São Paulo, São Paulo, Brasil
+<br />
 
- ## 🔎 Resumo
- Com formação em Engenharia Civil pela UNESP e atuação como Ciência de Dados, dedico-me a transformar dados complexos em insights acionáveis que impulsionam o crescimento e a inovação.
+## 🔎 Resumo Profissional
 
- Minha paixão por desafios me levou a desenvolver modelos preditivos avançados e soluções de Machine Learning, Big Data e Inteligência Artificial (AI), sempre com o objetivo de gerar valor palpável para a organização.
+<p align="justify" style="font-family: 'Verdana', sans-serif; line-height: 1.6;">
+  <strong>Data Science</strong> foi a forma pela qual meu foco em resolver problemas complexos se concretizou. A partir de uma estrutura sólida baseada na análise de dados internos, tornou-se possível reduzir custos, otimizar processos e, principalmente, gerar resultados de alta performance de maneira mensurável e alinhada ao core do negócio.
+  <br><br>
+  Ao longo da confecção de diversos projetos nas áreas de Varejo, Indústria, Supply Chain, P&D/Técnico, Jurídico, Financeiro, Administrativo, Marketing & Vendas, RH/People Analytics e Customer Success, aprofundei minha especialização em <strong>Machine Learning</strong>, <strong>IA Generativa (LLMs)</strong>, <strong>Análise Exploratória (EDA)</strong> e <strong>MLOps</strong>.
+</p>
 
- Através da colaboração com times multidisciplinares, contribuo para a tomada de decisões baseadas em Data Analysis e fortaleço a cultura analítica da empresa. Meu compromisso com a excelência e a busca contínua por conhecimento em IA generativa e aprendizado de máquina tradicional evidenciam minha capacidade de estar à frente das tendências do mercado e aplicá-las de maneira estratégica aos negócios.
+<div align="center">
+  <p style="font-family: monospace; color: #555;">
+    <strong>🗝️ Keywords:</strong> Data Science • Machine Learning • Big Data • Python • SQL • Data Analysis • AI • Deep Learning • Statistical Analysis • Predictive Modeling • Data Mining • BI • ETL • Pyspark • TensorFlow • NLP • Data Engineering
+  </p>
+</div>
 
- Keywords: Data Science, Machine Learning, Big Data, Python, SQL, Data Analysis, Data Visualization, Artificial Intelligence (AI), Deep Learning, Statistical Analysis, Predictive Modeling, Data Mining, Business Intelligence (BI), ETL (Extract, Transform, Load), Pyspark, TensorFlow, Natural Language Processing (NLP), Data Engineering.
+<br />
 
- ## Principais Competências:
-### 🔧 Tecnologias e Ferramentas
-- Python, PySpark, MLflow, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch, LangChain, - - API da OpenAI, IA generativa
-- SQL, MySQL, JSON, Expressões regulares
-- Microsoft Fabric, Microsoft Power BI, Windows Azure, Azure Databricks
-- Qlik Sense, Microsoft Excel, Microsoft Project
-- Git, HTML, CSS, JavaScript, React.js, Django
-- SAP
+## 🚀 Portfólio de Soluções
+<h3 align="center"><em>Onde a Teoria Encontra a Prática</em></h3>
 
-### 📊 Ciência de Dados e Análise
-- Ciência de dados, Inteligência de dados, Inteligência geoespacial
-- Análise exploratória de dados, Análise de dados, Insights de negócios
-- Estatística, Modelagem, Modelagem e simulação
-- Algoritmos de aprendizado de máquina, Aprendizado de máquina, Aprendizado supervisionado
-- Processamento de dados, Manipulação de dados, Visualização, Normas de dados
+<p align="justify">
+  Mais do que apenas listar tecnologias, acredito em demonstrar valor real. Meu trabalho se concentra em transformar desafios de negócio complexos em soluções de dados funcionais, com uma entrega end-to-end: do código à documentação técnica e de negócio detalhada, garantindo que o projeto seja sustentável, auditável e compreensível por todos os stakeholders.
+  <br><br>
+  <strong>Convido você a explorar os projetos, códigos e artigos onde detalho essas implementações:</strong>
+</p>
 
-### 📈 Estratégia, Negócios e Gestão
-- Estratégia empresarial, Planejamento estratégico
-- Eficiência operacional, Melhoria contínua, Melhoria de processos
-- Monitoramento e avaliação, Gestão de riscos
-- Reestruturas de negócios, Fusões e aquisições, Negociações estratégicas
-- Tomada de decisões de negócios, Análise de negócios, Identificação de oportunidade
+<br>
 
-### 🧠 Habilidades Interpessoais e Cognitivas
-- Pensamento crítico, Comunicação, Trabalho em equipe
-- Resolução de problemas, Solução de problemas técnicos, Habilidades analíticas
-- Computação, Apresentações, Criação de template
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td>
+      <h3>🔎 Análise Diagnóstica e Inferência Estatística</h3>
+      <p align="justify">
+        Antes de prever o futuro, é preciso compreender profundamente o presente e o passado. Realizo análises exploratórias robustas, aplicando inferência estatística para validar hipóteses e análises diagnósticas para identificar a causa raiz de comportamentos e anomalias nos dados.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎲 Pesquisa Operacional e Simulação</h3>
+      <p align="justify">
+        Para cenários de alta complexidade, combino o poder preditivo do Machine Learning com a precisão de sistemas de simulação e otimização matemática. Essa abordagem híbrida permite testar cenários ("what-if") e tomar decisões ótimas em ambientes dinâmicos.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⚙️ De Modelos de Machine Learning à Produção (MLOps)</h3>
+      <p align="justify">
+        Não basta criar um modelo; ele precisa gerar valor em produção. Minha experiência cobre o ciclo completo, desde a Análise Exploratória (EDA) até o deployment e monitoramento contínuo, assegurando a escalabilidade e a governança das soluções.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🤖 IA Generativa (LLMs) para Negócios</h3>
+      <p align="justify">
+        Vou além do hype. Aplico LLMs para criar soluções práticas, como assistentes virtuais e otimização de processos baseados em texto, focando estritamente em aplicações que trazem um ROI claro para a organização.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏢 Core Business vs. Back-Office</h3>
+      <p align="justify">
+        A ciência de dados é transversal e deve permear toda a organização. Minha especialização é traduzir as necessidades específicas de diversas frentes (Varejo, Indústria, Supply Chain, P&D/Técnico, Jurídico, Financeiro, Administrativo, Marketing & Vendas, RH/People Analytics e Customer Success) em modelos de dados eficientes que resolvem problemas reais de negócio.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Desenvolvimento e Operações
-- Desenvolvimento de front-end
-- Metodologias Agile
-- Banco de dados
-- Pesquisa de operações
-- Níveis de serviço, Métricas de qualidade
-- Soluções de tecnologia
+<br />
+
+<div align="center">
+  <sub>Flávio Menegueço Bezerra © 2025</sub>
+</div>
