@@ -12,8 +12,15 @@
     <em>Transformando Dados em Estratégias de Negócio</em>
   </p>
 
-  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/flavio-m-bezerra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Flávio Menegueço Bezerra | LinkedIn" />
+  </a>
+  <a href="https://portifoliofmb.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://medium.com/@flaviombezerra" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Flavio Bezerra – Medium" />
+  </a>
 </div>
 
 <br />
