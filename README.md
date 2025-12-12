@@ -21,6 +21,9 @@
   <a href="https://medium.com/@flaviombezerra" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Flavio Bezerra – Medium" />
   </a>
+  <a href="https://pypi.org/user/FlavioBezerra/" target="_blank">
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="Perfil de FlavioBezerra · PyPI" />
+</a>
 </div>
 
 <br />
